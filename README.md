@@ -27,3 +27,17 @@ This application demonstrates:
 - Game interaction
 - Database update after each game
 - Display of Top 5 scorers
+
+## Screenshots
+
+### Login
+screenshots/login.png
+
+### Game
+screenshots/game.png
+
+### Statistics
+screenshots/statistics.png
+
+### Top 5
+screenshots/top5.png
